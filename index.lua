@@ -2,15 +2,18 @@ showa=0
 showb=0
 showc=1
 oldpad = KEY_A
+loaded=false
 while true do
 pad = Controls.read()
 if (Controls.check(pad,KEY_DRIGHT)) and not Controls.check(oldpad,KEY_DRIGHT) then
 		showc=showc+1
 		oldpad=pad
-		pic= nil
+		pic = nil
+		loaded=false
 		elseif (Controls.check(pad,KEY_DLEFT)) and not Controls.check(oldpad,KEY_DLEFT) then
 		showc=showc-1
 		pic= nil
+		loaded=false
 		oldpad=pad
 	end
 	if (Controls.check(pad,KEY_SELECT)) and not Controls.check(oldpad,KEY_SELECT) then
@@ -54,7 +57,10 @@ showb=0
 showc=1
 end
 dofile(System.currentDirectory().."/dex/"..showa..showb..showc.."/info.lua")
+if not loaded then
 pic=Screen.loadImage(System.currentDirectory().."/dex/"..showa..showb..showc.."/pic.jpg")
+loaded = true 
+end
 Screen.waitVblankStart()
 	Screen.refresh()
 	Screen.clear(TOP_SCREEN)
@@ -68,6 +74,5 @@ Screen.waitVblankStart()
 	Screen.debugPrint(105,23,kind,Color.new(255,255,255),TOP_SCREEN)
 	Screen.drawImage(0,11,pic,TOP_SCREEN)
 	Screen.flip()
-	pic = nil
 	oldpad = pad
 end
