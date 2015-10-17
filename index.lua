@@ -4,6 +4,7 @@ showc=1
 oldpad = KEY_A
 loaded = false
 gui=Screen.loadImage(System.currentDirectory().."/gui.jpg")
+touch=Screen.loadImage(System.currentDirectory().."/touch.jpg")
 -- font is verdana
 font=Font.load(System.currentDirectory().."/verdana.ttf")
 cursiv=Font.load(System.currentDirectory().."/verdanai.ttf")
@@ -43,6 +44,18 @@ function CPrint(x, y, text, color, screen)
 end
 while true do
 pad = Controls.read()
+ if Controls.check(Controls.read(),KEY_TOUCH) then
+          x,y = Controls.readTouch()
+          if y >= 10 and y <= 220 then
+            if x >10 and x <= 150 then
+             showc=showc-1 
+			 loaded = false
+            elseif x >= 170 and x <= 310 then
+              showc=showc+1
+			  loaded = false
+            end
+          end
+	end  
 if (Controls.check(pad,KEY_DRIGHT)) and not Controls.check(oldpad,KEY_DRIGHT) then
 		showc=showc+1
 		oldpad=pad
@@ -110,13 +123,13 @@ Screen.waitVblankStart()
 	Screen.refresh()
 	Screen.clear(TOP_SCREEN)
 	Screen.drawImage(0,0,gui,TOP_SCREEN)
+	Screen.drawImage(0,0,touch,BOTTOM_SCREEN)
 	Print(175,15,showa..showb..showc,black,TOP_SCREEN)
 	CPrint(200,15,name,black,TOP_SCREEN)
 	Print(175,60,type1,black,TOP_SCREEN)
 	Print(250,60,type2,black,TOP_SCREEN)
 	Print(175,75,"Height: "..height,black,TOP_SCREEN)
 	Print(175,90,"Weight: "..weight,black,TOP_SCREEN)
-
 	DPrint(15,175,dextext,black,TOP_SCREEN)
 	Print(175,45,"Species: "..kind,black,TOP_SCREEN)
 	Screen.drawImage(10,10,pic,TOP_SCREEN)
