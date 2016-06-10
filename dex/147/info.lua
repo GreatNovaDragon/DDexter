@@ -1,0 +1,7 @@
+name="Dratini"
+dextext="Long considered a mythical POKeMON until recently when a small colony was found living underwater."
+type1="dragon"
+type2=""
+height="5ft 11in (1.80m)"
+weight="7.3 lbs (3.3 kg)"
+kind="Dragon Pokemon"

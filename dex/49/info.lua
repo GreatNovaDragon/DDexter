@@ -1,0 +1,7 @@
+name="Venomoth"
+dextext="The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
+type1="bug"
+type2="poison"
+height="4ft 11in (1.50m)"
+weight="27.6 lbs (12.5 kg)"
+kind="Poison Moth Pokemon"

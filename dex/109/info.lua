@@ -1,0 +1,7 @@
+name="Koffing"
+dextext="Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
+type1="poison"
+type2=""
+height="2ft 0in (0.61m)"
+weight="2.2 lbs (1.0 kg)"
+kind="Poison Gas Pokemon"

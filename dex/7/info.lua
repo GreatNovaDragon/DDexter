@@ -1,0 +1,7 @@
+name="Squirtle"
+dextext="After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
+type1="water"
+type2=""
+height="1ft 8in (0.51m)"
+weight="19.8 lbs (9.0 kg)"
+kind="Tiny Turtle Pokemon"

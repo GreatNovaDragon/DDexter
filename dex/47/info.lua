@@ -1,0 +1,7 @@
+name="Parasect"
+dextext="A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
+type1="bug"
+type2="grass"
+height="3ft 3in (0.99m)"
+weight="65 lbs (29.5 kg)"
+kind="Mushroom Pokemon"

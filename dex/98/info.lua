@@ -1,0 +1,7 @@
+name="Krabby"
+dextext="Its pincers are not only powerful weapons, they are used for balance when walking sideways."
+type1="water"
+type2=""
+height="1ft 4in (0.41m)"
+weight="14.3 lbs (6.5 kg)"
+kind="River Crab Pokemon"

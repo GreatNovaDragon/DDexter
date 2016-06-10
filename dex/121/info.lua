@@ -1,0 +1,7 @@
+name="Starmie"
+dextext="Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
+type1="water"
+type2="psychic"
+height="3ft 7in (1.09m)"
+weight="176.4 lbs (80.0 kg)"
+kind="Mysterious Pokemon"

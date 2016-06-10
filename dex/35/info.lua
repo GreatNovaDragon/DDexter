@@ -1,0 +1,7 @@
+name="Clefairy"
+dextext="Its magical and cute appeal has many admirers. It is rare and found only in certain areas."
+type1="fairy"
+type2=""
+height="2ft 0in (0.61m)"
+weight="16.5 lbs (7.5 kg)"
+kind="Fairy Pokemon"

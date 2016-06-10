@@ -1,0 +1,7 @@
+name="Kangaskhan"
+dextext="The infant rarely ventures out of its mother's protective pouch until it is 3 years old."
+type1="normal"
+type2=""
+height="7ft 3in (2.21m)"
+weight="176.4 lbs (80.0 kg)"
+kind="Parent Pokemon"

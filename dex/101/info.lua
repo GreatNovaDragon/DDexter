@@ -1,0 +1,7 @@
+name="Electrode"
+dextext="It stores electric energy under very high pressure. It often explodes with little or no provocation."
+type1="electric"
+type2=""
+height="3ft 11in (1.19m)"
+weight="146.8 lbs (66.6 kg)"
+kind="Ball Pokemon"

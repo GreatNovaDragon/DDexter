@@ -1,0 +1,7 @@
+name="Magneton"
+dextext="Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up."
+type1="electric"
+type2="steel"
+height="3ft 3in (0.99m)"
+weight="132.3 lbs (60.0 kg)"
+kind="Magnet Pokemon"

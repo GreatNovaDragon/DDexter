@@ -1,0 +1,7 @@
+name="Fearow"
+dextext="With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
+type1="normal"
+type2="flying"
+height="3ft 11in (1.19m)"
+weight="83.8 lbs (38.0 kg)"
+kind="Beak Pokemon"

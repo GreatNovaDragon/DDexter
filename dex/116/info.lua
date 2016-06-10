@@ -1,0 +1,7 @@
+name="Horsea"
+dextext="Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
+type1="water"
+type2=""
+height="1ft 4in (0.41m)"
+weight="17.6 lbs (8.0 kg)"
+kind="Dragon Pokemon"

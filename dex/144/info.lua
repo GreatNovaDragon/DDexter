@@ -1,0 +1,7 @@
+name="Articuno"
+dextext="A legendary bird POKeMON that is said to appear to doomed people who are lost in icy mountains."
+type1="ice"
+type2="flying"
+height="5ft 7in (1.70m)"
+weight="122.1 lbs (55.4 kg)"
+kind="Freeze Pokemon"

@@ -1,0 +1,7 @@
+name="Victreebel"
+dextext="Said to live in huge colonies deep in jungles, although no one has ever returned from there."
+type1="grass"
+type2="poison"
+height="5ft 7in (1.70m)"
+weight="34.2 lbs (15.5 kg)"
+kind="Flycatcher Pokemon"

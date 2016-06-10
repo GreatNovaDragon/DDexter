@@ -1,0 +1,7 @@
+name="Dragonair"
+dextext="A mystical POKeMON that exudes a gentle aura. Has the ability to change climate conditions."
+type1="dragon"
+type2=""
+height="13ft 1in (3.99m)"
+weight="36.4 lbs (16.5 kg)"
+kind="Dragon Pokemon"

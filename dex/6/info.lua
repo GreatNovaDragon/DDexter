@@ -1,0 +1,7 @@
+name="Charizard"
+dextext="Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
+type1="fire"
+type2="flying"
+height="5ft 7in (1.70m)"
+weight="199.5 lbs (90.5 kg)"
+kind="Flame Pokemon"

@@ -1,0 +1,7 @@
+name="Machop"
+dextext="Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
+type1="fighting"
+type2=""
+height="2ft 7in (0.79m)"
+weight="43 lbs (19.5 kg)"
+kind="Superpower Pokemon"

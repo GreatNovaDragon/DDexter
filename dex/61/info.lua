@@ -1,0 +1,7 @@
+name="Poliwhirl"
+dextext="Capable of living in or out of water. When out of water, it sweats to keep its body slimy."
+type1="water"
+type2=""
+height="3ft 3in (0.99m)"
+weight="44.1 lbs (20.0 kg)"
+kind="Tadpole Pokemon"

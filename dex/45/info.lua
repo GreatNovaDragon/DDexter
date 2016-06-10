@@ -1,0 +1,7 @@
+name="Vileplume"
+dextext="The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+type1="grass"
+type2="poison"
+height="3ft 11in (1.19m)"
+weight="41 lbs (18.6 kg)"
+kind="Flower Pokemon"

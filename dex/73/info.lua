@@ -1,0 +1,7 @@
+name="Tentacruel"
+dextext="The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
+type1="water"
+type2="poison"
+height="5ft 3in (1.60m)"
+weight="121.3 lbs (55.0 kg)"
+kind="Jellyfish Pokemon"

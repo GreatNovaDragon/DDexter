@@ -1,0 +1,7 @@
+name="Raticate"
+dextext="It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
+type1="normal"
+type2=""
+height="2ft 4in (0.71m)"
+weight="40.8 lbs (18.5 kg)"
+kind="Mouse Pokemon"

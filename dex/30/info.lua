@@ -1,0 +1,7 @@
+name="Nidorina"
+dextext="The female's horn develops slowly. Prefers physical attacks such as clawing and biting."
+type1="poison"
+type2=""
+height="2ft 7in (0.79m)"
+weight="44.1 lbs (20.0 kg)"
+kind="Poison Pin Pokemon"

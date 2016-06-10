@@ -1,0 +1,7 @@
+name="Cloyster"
+dextext="When attacked, it launches its horns in quick volleys. Its innards have never been seen."
+type1="water"
+type2="ice"
+height="4ft 11in (1.50m)"
+weight="292.1 lbs (132.5 kg)"
+kind="Bivalve Pokemon"

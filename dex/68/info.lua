@@ -1,0 +1,7 @@
+name="Machamp"
+dextext="Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon."
+type1="fighting"
+type2=""
+height="5ft 3in (1.60m)"
+weight="286.6 lbs (130.0 kg)"
+kind="Superpower Pokemon"

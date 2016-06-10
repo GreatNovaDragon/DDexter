@@ -1,0 +1,7 @@
+name="Weepinbell"
+dextext="It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID."
+type1="grass"
+type2="poison"
+height="3ft 3in (0.99m)"
+weight="14.1 lbs (6.4 kg)"
+kind="Flycatcher Pokemon"

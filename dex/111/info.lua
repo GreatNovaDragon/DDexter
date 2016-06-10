@@ -1,0 +1,7 @@
+name="Rhyhorn"
+dextext="Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
+type1="ground"
+type2="rock"
+height="3ft 3in (0.99m)"
+weight="253.5 lbs (115.0 kg)"
+kind="Spikes Pokemon"

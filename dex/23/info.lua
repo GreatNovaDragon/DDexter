@@ -1,0 +1,7 @@
+name="Ekans"
+dextext="Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole."
+type1="poison"
+type2=""
+height="6ft 7in (2.01m)"
+weight="15.2 lbs (6.9 kg)"
+kind="Snake Pokemon"

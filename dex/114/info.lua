@@ -1,0 +1,7 @@
+name="Tangela"
+dextext="The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks."
+type1="grass"
+type2=""
+height="3ft 3in (0.99m)"
+weight="77.2 lbs (35.0 kg)"
+kind="Vine Pokemon"

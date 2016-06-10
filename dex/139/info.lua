@@ -1,0 +1,7 @@
+name="Omastar"
+dextext="A prehistoric POKeMON that died out when its heavy shell made it impossible to catch prey."
+type1="rock"
+type2="water"
+height="3ft 3in (0.99m)"
+weight="77.2 lbs (35.0 kg)"
+kind="Spiral Pokemon"

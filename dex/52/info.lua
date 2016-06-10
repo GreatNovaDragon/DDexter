@@ -1,0 +1,7 @@
+name="Meowth"
+dextext="Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
+type1="normal"
+type2=""
+height="1ft 4in (0.41m)"
+weight="9.3 lbs (4.2 kg)"
+kind="Scratch Cat Pokemon"

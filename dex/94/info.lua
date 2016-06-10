@@ -1,0 +1,7 @@
+name="Gengar"
+dextext="Under a full moon, this POKeMON likes to mimic the shadows of people and laugh at their fright."
+type1="ghost"
+type2="poison"
+height="4ft 11in (1.50m)"
+weight="89.3 lbs (40.5 kg)"
+kind="Shadow Pokemon"

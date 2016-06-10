@@ -1,0 +1,7 @@
+name="Ivysaur"
+dextext="When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+type1="grass"
+type2="poison"
+height="3ft 3in (0.99m)"
+weight="28.7 lbs (13.0 kg)"
+kind="Seed Pokemon"

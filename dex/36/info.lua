@@ -1,0 +1,7 @@
+name="Clefable"
+dextext="A timid fairy POKeMON that is rarely seen. It will run and hide the moment it senses people."
+type1="fairy"
+type2=""
+height="4ft 3in (1.30m)"
+weight="88.2 lbs (40.0 kg)"
+kind="Fairy Pokemon"

@@ -1,0 +1,7 @@
+name="Lapras"
+dextext="A POKeMON that has been overhunted almost to extinction. It can ferry people across the water."
+type1="water"
+type2="ice"
+height="8ft 2in (2.49m)"
+weight="485 lbs (220.0 kg)"
+kind="Transport Pokemon"

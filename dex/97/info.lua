@@ -1,0 +1,7 @@
+name="Hypno"
+dextext="When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION."
+type1="psychic"
+type2=""
+height="5ft 3in (1.60m)"
+weight="166.7 lbs (75.6 kg)"
+kind="Hypnosis Pokemon"

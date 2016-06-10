@@ -1,0 +1,7 @@
+name="Gloom"
+dextext="The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey."
+type1="grass"
+type2="poison"
+height="2ft 7in (0.79m)"
+weight="19 lbs (8.6 kg)"
+kind="Weed Pokemon"

@@ -1,0 +1,7 @@
+name="Oddish"
+dextext="During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+type1="grass"
+type2="poison"
+height="1ft 8in (0.51m)"
+weight="11.9 lbs (5.4 kg)"
+kind="Weed Pokemon"

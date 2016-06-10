@@ -1,0 +1,7 @@
+name="Electabuzz"
+dextext="Normally found near power plants, they can wander away and cause major blackouts in cities."
+type1="electric"
+type2=""
+height="3ft 7in (1.09m)"
+weight="66.1 lbs (30.0 kg)"
+kind="Electric Pokemon"

@@ -1,0 +1,7 @@
+name="Geodude"
+dextext="Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
+type1="rock"
+type2="ground"
+height="1ft 4in (0.41m)"
+weight="44.1 lbs (20.0 kg)"
+kind="Rock Pokemon"

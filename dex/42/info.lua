@@ -1,0 +1,7 @@
+name="Golbat"
+dextext="Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly."
+type1="poison"
+type2="flying"
+height="5ft 3in (1.60m)"
+weight="121.3 lbs (55.0 kg)"
+kind="Bat Pokemon"

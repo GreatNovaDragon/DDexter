@@ -1,0 +1,7 @@
+name="Magmar"
+dextext="Its body always burns with an orange glow that enables it to hide perfectly among flames."
+type1="fire"
+type2=""
+height="4ft 3in (1.30m)"
+weight="98.1 lbs (44.5 kg)"
+kind="Spitfire Pokemon"

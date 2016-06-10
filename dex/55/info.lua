@@ -1,0 +1,7 @@
+name="Golduck"
+dextext="Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa."
+type1="water"
+type2=""
+height="5ft 7in (1.70m)"
+weight="168.9 lbs (76.6 kg)"
+kind="Duck Pokemon"

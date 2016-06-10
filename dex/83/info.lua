@@ -1,0 +1,7 @@
+name="Farfetch'd"
+dextext="The sprig of green onions it holds is its weapon. It is used much like a metal sword."
+type1="normal"
+type2="flying"
+height="2ft 7in (0.79m)"
+weight="33.1 lbs (15.0 kg)"
+kind="Wild Duck Pokemon"

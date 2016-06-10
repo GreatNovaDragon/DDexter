@@ -1,0 +1,7 @@
+name="Dugtrio"
+dextext="A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground."
+type1="ground"
+type2=""
+height="2ft 4in (0.71m)"
+weight="73.4 lbs (33.3 kg)"
+kind="Mole Pokemon"

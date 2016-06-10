@@ -1,0 +1,7 @@
+name="Golem"
+dextext="Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage."
+type1="rock"
+type2="ground"
+height="4ft 7in (1.40m)"
+weight="661.4 lbs (300.0 kg)"
+kind="Megaton Pokemon"

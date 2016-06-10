@@ -1,0 +1,7 @@
+name="Dodrio"
+dextext="Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
+type1="normal"
+type2="flying"
+height="5ft 11in (1.80m)"
+weight="187.8 lbs (85.2 kg)"
+kind="Triple Bird Pokemon"

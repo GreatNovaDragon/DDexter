@@ -1,0 +1,7 @@
+name="Aerodactyl"
+dextext="A ferocious, prehistoric POKeMON that goes for the enemy's throat with its serrated saw-like fangs."
+type1="rock"
+type2="flying"
+height="5ft 11in (1.80m)"
+weight="130.1 lbs (59.0 kg)"
+kind="Fossil Pokemon"

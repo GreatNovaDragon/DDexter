@@ -1,0 +1,7 @@
+name="Pidgeot"
+dextext="When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP."
+type1="normal"
+type2="flying"
+height="4ft 11in (1.50m)"
+weight="87.1 lbs (39.5 kg)"
+kind="Bird Pokemon"

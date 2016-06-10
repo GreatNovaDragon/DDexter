@@ -1,0 +1,7 @@
+name="Goldeen"
+dextext="Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen."
+type1="water"
+type2=""
+height="2ft 0in (0.61m)"
+weight="33.1 lbs (15.0 kg)"
+kind="Goldfish Pokemon"

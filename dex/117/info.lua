@@ -1,0 +1,7 @@
+name="Seadra"
+dextext="Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail."
+type1="water"
+type2=""
+height="3ft 11in (1.19m)"
+weight="55.1 lbs (25.0 kg)"
+kind="Dragon Pokemon"

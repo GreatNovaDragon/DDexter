@@ -1,0 +1,7 @@
+name="Doduo"
+dextext="A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints."
+type1="normal"
+type2="flying"
+height="4ft 7in (1.40m)"
+weight="86.4 lbs (39.2 kg)"
+kind="Twin Bird Pokemon"

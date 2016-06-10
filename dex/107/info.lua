@@ -1,0 +1,7 @@
+name="Hitmonchan"
+dextext="While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see."
+type1="fighting"
+type2=""
+height="4ft 7in (1.40m)"
+weight="110.7 lbs (50.2 kg)"
+kind="Punching Pokemon"

@@ -1,0 +1,7 @@
+name="Metapod"
+dextext="This POKeMON is vulnerable to attack while its shell is soft, exposing its weak and tender body."
+type1="bug"
+type2=""
+height="2ft 4in (0.71m)"
+weight="21.8 lbs (9.9 kg)"
+kind="Cocoon Pokemon"

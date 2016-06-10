@@ -1,0 +1,7 @@
+name="Persian"
+dextext="Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
+type1="normal"
+type2=""
+height="3ft 3in (0.99m)"
+weight="70.5 lbs (32.0 kg)"
+kind="Classy Cat Pokemon"

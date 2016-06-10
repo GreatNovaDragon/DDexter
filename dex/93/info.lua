@@ -1,0 +1,7 @@
+name="Haunter"
+dextext="Because of its ability to slip through block walls, it is said to be from another dimension."
+type1="ghost"
+type2="poison"
+height="5ft 3in (1.60m)"
+weight="0.2 lbs (0.1 kg)"
+kind="Gas Pokemon"

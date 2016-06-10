@@ -1,0 +1,7 @@
+name="Ditto"
+dextext="Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy."
+type1="normal"
+type2=""
+height="1ft 0in (0.30m)"
+weight="8.8 lbs (4.0 kg)"
+kind="Transform Pokemon"

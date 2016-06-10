@@ -1,0 +1,7 @@
+name="Exeggcute"
+dextext="Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
+type1="grass"
+type2="psychic"
+height="1ft 4in (0.41m)"
+weight="5.5 lbs (2.5 kg)"
+kind="Egg Pokemon"

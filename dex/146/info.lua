@@ -1,0 +1,7 @@
+name="Moltres"
+dextext="Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames."
+type1="fire"
+type2="flying"
+height="6ft 7in (2.01m)"
+weight="132.3 lbs (60.0 kg)"
+kind="Flame Pokemon"

@@ -1,0 +1,7 @@
+name="Charmander"
+dextext="Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
+type1="fire"
+type2=""
+height="2ft 0in (0.61m)"
+weight="18.7 lbs (8.5 kg)"
+kind="Lizard Pokemon"

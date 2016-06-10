@@ -1,0 +1,7 @@
+name="Beedrill"
+dextext="Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
+type1="bug"
+type2="poison"
+height="3ft 3in (0.99m)"
+weight="65 lbs (29.5 kg)"
+kind="Poison Bee Pokemon"

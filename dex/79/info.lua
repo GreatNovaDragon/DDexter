@@ -1,0 +1,7 @@
+name="Slowpoke"
+dextext="Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack."
+type1="water"
+type2="psychic"
+height="3ft 11in (1.19m)"
+weight="79.4 lbs (36.0 kg)"
+kind="Dopey Pokemon"

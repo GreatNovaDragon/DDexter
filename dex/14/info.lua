@@ -1,0 +1,7 @@
+name="Kakuna"
+dextext="Almost incapable of moving, this POKeMON can only harden its shell to protect itself from predators."
+type1="bug"
+type2="poison"
+height="2ft 0in (0.61m)"
+weight="22 lbs (10.0 kg)"
+kind="Cocoon Pokemon"

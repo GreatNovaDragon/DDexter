@@ -1,0 +1,7 @@
+name="Kabuto"
+dextext="A POKeMON that was resurrected from a fossil found in what was once the ocean floor eons ago."
+type1="rock"
+type2="water"
+height="1ft 8in (0.51m)"
+weight="25.4 lbs (11.5 kg)"
+kind="Shellfish Pokemon"

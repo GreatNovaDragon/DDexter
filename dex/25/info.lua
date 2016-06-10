@@ -1,0 +1,7 @@
+name="Pikachu"
+dextext="When several of these POKeMON gather, their electricity could build and cause lightning storms."
+type1="electric"
+type2=""
+height="1ft 4in (0.41m)"
+weight="13.2 lbs (6.0 kg)"
+kind="Mouse Pokemon"

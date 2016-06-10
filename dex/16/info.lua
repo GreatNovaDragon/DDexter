@@ -1,0 +1,7 @@
+name="Pidgey"
+dextext="A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
+type1="normal"
+type2="flying"
+height="1ft 0in (0.30m)"
+weight="4 lbs (1.8 kg)"
+kind="Tiny Bird Pokemon"

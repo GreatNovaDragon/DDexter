@@ -1,0 +1,7 @@
+name="Drowzee"
+dextext="Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams."
+type1="psychic"
+type2=""
+height="3ft 3in (0.99m)"
+weight="71.4 lbs (32.4 kg)"
+kind="Hypnosis Pokemon"

@@ -1,0 +1,7 @@
+name="Vaporeon"
+dextext="Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's."
+type1="water"
+type2=""
+height="3ft 3in (0.99m)"
+weight="63.9 lbs (29.0 kg)"
+kind="Bubble Jet Pokemon"

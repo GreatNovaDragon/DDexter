@@ -1,0 +1,7 @@
+name="Arcanine"
+dextext="A POKeMON that has been admired since the past for its beauty. It runs agilely as if on wings."
+type1="fire"
+type2=""
+height="6ft 3in (1.91m)"
+weight="341.7 lbs (155.0 kg)"
+kind="Legendary Pokemon"

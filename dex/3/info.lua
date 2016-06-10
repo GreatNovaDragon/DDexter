@@ -1,0 +1,7 @@
+name="Venusaur"
+dextext="The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+type1="grass"
+type2="poison"
+height="6ft 7in (2.01m)"
+weight="220.5 lbs (100.0 kg)"
+kind="Seed Pokemon"

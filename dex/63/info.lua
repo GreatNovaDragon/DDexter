@@ -1,0 +1,7 @@
+name="Abra"
+dextext="Using its ability to read minds, it will identify impending danger and TELEPORT to safety."
+type1="psychic"
+type2=""
+height="2ft 11in (0.89m)"
+weight="43 lbs (19.5 kg)"
+kind="Psi Pokemon"

@@ -1,0 +1,7 @@
+name="Rattata"
+dextext="Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+type1="normal"
+type2=""
+height="1ft 0in (0.30m)"
+weight="7.7 lbs (3.5 kg)"
+kind="Mouse Pokemon"

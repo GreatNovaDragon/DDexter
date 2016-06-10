@@ -1,0 +1,7 @@
+name="Weedle"
+dextext="Often found in forests, eating leaves. It has a sharp venomous stinger on its head."
+type1="bug"
+type2="poison"
+height="1ft 0in (0.30m)"
+weight="7.1 lbs (3.2 kg)"
+kind="Hairy Bug Pokemon"

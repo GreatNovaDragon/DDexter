@@ -1,0 +1,7 @@
+name="Tauros"
+dextext="When it targets an enemy, it charges furiously while whipping its body with its long tails."
+type1="normal"
+type2=""
+height="4ft 7in (1.40m)"
+weight="194.9 lbs (88.4 kg)"
+kind="Wild Bull Pokemon"

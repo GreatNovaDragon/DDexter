@@ -1,0 +1,7 @@
+name="Shellder"
+dextext="Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+type1="water"
+type2=""
+height="1ft 0in (0.30m)"
+weight="8.8 lbs (4.0 kg)"
+kind="Bivalve Pokemon"

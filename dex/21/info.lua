@@ -1,0 +1,7 @@
+name="Spearow"
+dextext="Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+type1="normal"
+type2="flying"
+height="1ft 0in (0.30m)"
+weight="4.4 lbs (2.0 kg)"
+kind="Tiny Bird Pokemon"

@@ -1,0 +1,7 @@
+name="Slowbro"
+dextext="The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps."
+type1="water"
+type2="psychic"
+height="5ft 3in (1.60m)"
+weight="173.1 lbs (78.5 kg)"
+kind="Hermit Crab Pokemon"

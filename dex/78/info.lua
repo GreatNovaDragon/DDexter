@@ -1,0 +1,7 @@
+name="Rapidash"
+dextext="Very competitive, this POKeMON will chase anything that moves fast in the hopes of racing it."
+type1="fire"
+type2=""
+height="5ft 7in (1.70m)"
+weight="209.4 lbs (95.0 kg)"
+kind="Fire Horse Pokemon"

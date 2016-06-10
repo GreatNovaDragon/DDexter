@@ -1,0 +1,7 @@
+name="Gyarados"
+dextext="Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+type1="water"
+type2="flying"
+height="21ft 4in (6.50m)"
+weight="518.1 lbs (235.0 kg)"
+kind="Atrocious Pokemon"

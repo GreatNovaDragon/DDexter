@@ -1,0 +1,7 @@
+name="Lickitung"
+dextext="Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies."
+type1="normal"
+type2=""
+height="3ft 11in (1.19m)"
+weight="144.4 lbs (65.5 kg)"
+kind="Licking Pokemon"

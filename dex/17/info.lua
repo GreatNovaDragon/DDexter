@@ -1,0 +1,7 @@
+name="Pidgeotto"
+dextext="Very protective of its sprawling territorial area, this POKeMON will fiercely peck at any intruder."
+type1="normal"
+type2="flying"
+height="3ft 7in (1.09m)"
+weight="66.1 lbs (30.0 kg)"
+kind="Bird Pokemon"

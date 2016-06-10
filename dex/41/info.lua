@@ -1,0 +1,7 @@
+name="Zubat"
+dextext="Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
+type1="poison"
+type2="flying"
+height="2ft 7in (0.79m)"
+weight="16.5 lbs (7.5 kg)"
+kind="Bat Pokemon"

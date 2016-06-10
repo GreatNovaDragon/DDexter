@@ -1,0 +1,7 @@
+name="Seel"
+dextext="The protruding horn on its head is very hard. It is used for bashing through thick ice."
+type1="water"
+type2=""
+height="3ft 7in (1.09m)"
+weight="198.4 lbs (90.0 kg)"
+kind="Sea Lion Pokemon"

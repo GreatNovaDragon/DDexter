@@ -1,0 +1,7 @@
+name="Magikarp"
+dextext="In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+type1="water"
+type2=""
+height="2ft 11in (0.89m)"
+weight="22 lbs (10.0 kg)"
+kind="Fish Pokemon"

@@ -1,0 +1,7 @@
+name="Psyduck"
+dextext="While lulling its enemies with its vacant look, this wily POKeMON will use psychokinetic powers."
+type1="water"
+type2=""
+height="2ft 7in (0.79m)"
+weight="43.2 lbs (19.6 kg)"
+kind="Duck Pokemon"

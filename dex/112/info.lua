@@ -1,0 +1,7 @@
+name="Rhydon"
+dextext="Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees."
+type1="ground"
+type2="rock"
+height="6ft 3in (1.91m)"
+weight="264.6 lbs (120.0 kg)"
+kind="Drill Pokemon"

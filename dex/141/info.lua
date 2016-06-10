@@ -1,0 +1,7 @@
+name="Kabutops"
+dextext="Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids."
+type1="rock"
+type2="water"
+height="4ft 3in (1.30m)"
+weight="89.3 lbs (40.5 kg)"
+kind="Shellfish Pokemon"

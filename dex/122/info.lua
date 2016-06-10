@@ -1,0 +1,7 @@
+name="Mr. Mime"
+dextext="If interrupted while it is miming, it will slap around the offender with its broad hands."
+type1="psychic"
+type2="fairy"
+height="4ft 3in (1.30m)"
+weight="120.2 lbs (54.5 kg)"
+kind="Barrier Pokemon"

@@ -1,0 +1,7 @@
+name="Omanyte"
+dextext="Although long extinct, in rare cases, it can be genetically resurrected from fossils."
+type1="rock"
+type2="water"
+height="1ft 4in (0.41m)"
+weight="16.5 lbs (7.5 kg)"
+kind="Spiral Pokemon"

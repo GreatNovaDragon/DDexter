@@ -1,0 +1,7 @@
+name="Paras"
+dextext="Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host."
+type1="bug"
+type2="grass"
+height="1ft 0in (0.30m)"
+weight="11.9 lbs (5.4 kg)"
+kind="Mushroom Pokemon"

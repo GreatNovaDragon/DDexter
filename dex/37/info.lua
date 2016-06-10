@@ -1,0 +1,7 @@
+name="Vulpix"
+dextext="At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
+type1="fire"
+type2=""
+height="2ft 0in (0.61m)"
+weight="21.8 lbs (9.9 kg)"
+kind="Fox Pokemon"

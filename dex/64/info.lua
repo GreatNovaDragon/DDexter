@@ -1,0 +1,7 @@
+name="Kadabra"
+dextext="It emits special alpha waves from its body that induce headaches just by being close by."
+type1="psychic"
+type2=""
+height="4ft 3in (1.30m)"
+weight="124.6 lbs (56.5 kg)"
+kind="Psi Pokemon"

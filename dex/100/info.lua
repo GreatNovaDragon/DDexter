@@ -1,0 +1,7 @@
+name="Voltorb"
+dextext="Usually found in power plants. Easily mistaken for a POKe BALL, they have zapped many people."
+type1="electric"
+type2=""
+height="1ft 8in (0.51m)"
+weight="22.9 lbs (10.4 kg)"
+kind="Ball Pokemon"

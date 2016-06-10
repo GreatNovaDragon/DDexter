@@ -1,0 +1,7 @@
+name="Nidorino"
+dextext="An aggressive POKeMON that is quick to attack. The horn on its head secretes a powerful venom."
+type1="poison"
+type2=""
+height="2ft 11in (0.89m)"
+weight="43 lbs (19.5 kg)"
+kind="Poison Pin Pokemon"

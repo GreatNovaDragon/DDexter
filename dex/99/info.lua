@@ -1,0 +1,7 @@
+name="Kingler"
+dextext="The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use."
+type1="water"
+type2=""
+height="4ft 3in (1.30m)"
+weight="132.3 lbs (60.0 kg)"
+kind="Pincer Pokemon"

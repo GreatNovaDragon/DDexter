@@ -1,0 +1,7 @@
+name="Nidoking"
+dextext="It uses its powerful tail in battle to smash, constrict, then break the prey's bones."
+type1="poison"
+type2="ground"
+height="4ft 7in (1.40m)"
+weight="136.7 lbs (62.0 kg)"
+kind="Drill Pokemon"

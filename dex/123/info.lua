@@ -1,0 +1,7 @@
+name="Scyther"
+dextext="With ninja-like agility and speed, it can create the illusion that there is more than one."
+type1="bug"
+type2="flying"
+height="4ft 11in (1.50m)"
+weight="123.5 lbs (56.0 kg)"
+kind="Mantis Pokemon"

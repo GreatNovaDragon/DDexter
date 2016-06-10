@@ -1,0 +1,7 @@
+name="Magnemite"
+dextext="Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves."
+type1="electric"
+type2="steel"
+height="1ft 0in (0.30m)"
+weight="13.2 lbs (6.0 kg)"
+kind="Magnet Pokemon"

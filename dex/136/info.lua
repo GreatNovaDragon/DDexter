@@ -1,0 +1,7 @@
+name="Flareon"
+dextext="When storing thermal energy in its body, its temperature could soar to over 1600 degrees."
+type1="fire"
+type2=""
+height="2ft 11in (0.89m)"
+weight="55.1 lbs (25.0 kg)"
+kind="Flame Pokemon"

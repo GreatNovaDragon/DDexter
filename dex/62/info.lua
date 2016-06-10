@@ -1,0 +1,7 @@
+name="Poliwrath"
+dextext="An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers."
+type1="water"
+type2="fighting"
+height="4ft 3in (1.30m)"
+weight="119 lbs (54.0 kg)"
+kind="Tadpole Pokemon"

@@ -1,0 +1,7 @@
+name="Porygon"
+dextext="A POKeMON that consists entirely of programming code. Capable of moving freely in cyberspace."
+type1="normal"
+type2=""
+height="2ft 7in (0.79m)"
+weight="80.5 lbs (36.5 kg)"
+kind="Virtual Pokemon"

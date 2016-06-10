@@ -1,0 +1,7 @@
+name="Staryu"
+dextext="An enigmatic POKeMON that can effortlessly regenerate any appendage it loses in battle."
+type1="water"
+type2=""
+height="2ft 7in (0.79m)"
+weight="76.1 lbs (34.5 kg)"
+kind="Star Shape Pokemon"

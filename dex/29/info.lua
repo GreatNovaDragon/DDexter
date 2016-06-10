@@ -1,0 +1,7 @@
+name="Nidoran (f)"
+dextext="Although small, its venomous barbs render this POKeMON dangerous. The female has smaller horns."
+type1="poison"
+type2=""
+height="1ft 4in (0.41m)"
+weight="15.4 lbs (7.0 kg)"
+kind="Poison Pin Pokemon"

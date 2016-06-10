@@ -1,0 +1,7 @@
+name="Ponyta"
+dextext="Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time."
+type1="fire"
+type2=""
+height="3ft 3in (0.99m)"
+weight="66.1 lbs (30.0 kg)"
+kind="Fire Horse Pokemon"

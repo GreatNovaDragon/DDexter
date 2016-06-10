@@ -1,0 +1,7 @@
+name="Butterfree"
+dextext="In battle, it flaps its wings at high speed to release highly toxic dust into the air."
+type1="bug"
+type2="flying"
+height="3ft 7in (1.09m)"
+weight="70.5 lbs (32.0 kg)"
+kind="Butterfly Pokemon"

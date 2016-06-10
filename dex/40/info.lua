@@ -1,0 +1,7 @@
+name="Wigglytuff"
+dextext="The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
+type1="normal"
+type2="fairy"
+height="3ft 3in (0.99m)"
+weight="26.5 lbs (12.0 kg)"
+kind="Balloon Pokemon"

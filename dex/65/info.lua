@@ -1,0 +1,7 @@
+name="Alakazam"
+dextext="Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000."
+type1="psychic"
+type2=""
+height="4ft 11in (1.50m)"
+weight="105.8 lbs (48.0 kg)"
+kind="Psi Pokemon"

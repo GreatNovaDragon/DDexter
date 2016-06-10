@@ -1,0 +1,7 @@
+name="Caterpie"
+dextext="Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+type1="bug"
+type2=""
+height="1ft 0in (0.30m)"
+weight="6.4 lbs (2.9 kg)"
+kind="Worm Pokemon"

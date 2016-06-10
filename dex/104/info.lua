@@ -1,0 +1,7 @@
+name="Cubone"
+dextext="Because it never removes its skull helmet, no one has ever seen this POKeMON's real face."
+type1="ground"
+type2=""
+height="1ft 4in (0.41m)"
+weight="14.3 lbs (6.5 kg)"
+kind="Lonely Pokemon"

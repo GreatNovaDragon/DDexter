@@ -1,0 +1,7 @@
+name="Dragonite"
+dextext="An extremely rarely seen marine POKeMON. Its intelligence is said to match that of humans."
+type1="dragon"
+type2="flying"
+height="7ft 3in (2.21m)"
+weight="463 lbs (210.0 kg)"
+kind="Dragon Pokemon"
